@@ -13,4 +13,4 @@ Bu depo, bir Linux sunucusunun kurulumunu ve temel servislerinin yapılandırıl
 
 ## Uyarı!
 
-Scriptleri çalıştırmadan önce çalıştırılabilir yapın:
+Scriptleri çalıştırmadan önce çalıştırılabilir yapın
